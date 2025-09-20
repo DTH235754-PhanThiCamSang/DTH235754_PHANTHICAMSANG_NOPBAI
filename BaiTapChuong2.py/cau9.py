@@ -6,7 +6,6 @@ d2 = 5.0
 d3 = -0.5
 
 # Các biểu thức mẫu và giải thích kết quả:
-
 # 1. i1 + (i2 * i3)
 result1 = i1 + (i2 * i3)  # 2 + (5 * -3) = 2 + (-15) = -13
 
