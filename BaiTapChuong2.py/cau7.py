@@ -1,7 +1,7 @@
 # Một số cách nhập dữ liệu từ bàn phím trong Python
 
 # 1. Sử dụng hàm input() để nhập chuỗi
-name = input("Nhập tên của bạn: ")
+name = input("Nhập họ và tên của bạn: ")
 print("Tên bạn là:", name)
 
 # 2. Nhập số nguyên và chuyển kiểu dữ liệu
