@@ -23,7 +23,7 @@ try:
     y = 10 / x
     print("Kết quả:", y)
 except ValueError:
-    print("Lỗi: Bạn phải nhập số nguyên!")
+    print("Lỗi: Bạn phải nhập số nguyên! x > 0.")
 except ZeroDivisionError:
     print("Lỗi: Không được chia cho 0!")
 except Exception as e:
