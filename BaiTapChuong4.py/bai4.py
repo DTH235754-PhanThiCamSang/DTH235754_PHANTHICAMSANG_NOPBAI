@@ -1,3 +1,4 @@
+#Tính ROI
 def ROI(dt,cp):
     return (dt-cp)/cp
 def GoiYDauTu(roi):
