@@ -1,3 +1,4 @@
+#tính BMI
 def BMI(height, weight):
     bmi = weight / (height ** 2)
 def PHANLOAI(bmi):
