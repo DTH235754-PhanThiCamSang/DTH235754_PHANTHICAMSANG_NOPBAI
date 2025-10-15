@@ -1,3 +1,5 @@
+# số hoàn thiện hay số thịnh vượng
+
 def tong_uoc_so(n):
     tong = 0
     for i in range(1, n):
