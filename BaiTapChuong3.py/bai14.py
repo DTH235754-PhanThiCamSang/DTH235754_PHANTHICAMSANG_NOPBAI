@@ -10,3 +10,16 @@ while a < 100:
     print()
     a+=1
 print()
+'''
+Dieu Kien: if(a+b)%2==0:
+
+Chỉ in * nếu tổng a + b là số chẵn
+
+Tổng số giá trị b mỗi vòng = 40
+
+Trong 40 số liên tiếp, sẽ có 20 số chẵn và 20 số lẻ
+
+⟹ Mỗi dòng sẽ in đúng 20 dấu *
+
+Có 100 dòng như vậy → mỗi dòng 20 dấu *
+'''

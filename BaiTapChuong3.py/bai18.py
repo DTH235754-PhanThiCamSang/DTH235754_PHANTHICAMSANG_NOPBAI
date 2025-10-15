@@ -23,7 +23,7 @@ def hinh_B(n):
 
 
 if __name__ == "__main__":
-    
+ 
     print("Hình A:")
     hinh_A(n)
     print("\nHình B:")
