@@ -18,4 +18,4 @@ while solandoan < 7:
     hoi = input("Ban co muon choi tiep khong (c/k)? ")
     if hoi == 'k':
         break
-    print("Cam on ban da choi!")
+    print("Cam on ban da choi!Ket Thuc tro choi")
